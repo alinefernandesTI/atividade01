@@ -1,1 +1,9 @@
 
+{
+  "Lavagens":[
+    {"id": 1, "nome": "Ducha"},
+    {"id": 2, "nome": "Expressa"},
+    {"id": 3, "nome": "Geral"},
+    {"id": 4, "nome": "Geral com Cera"}
+  ]
+}
