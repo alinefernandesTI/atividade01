@@ -11,8 +11,6 @@
     {"id": 2, "tipo": "Tamanho Veiculo", "valor": "R$ 20,00"}    
   ],
   "Historico":[
-    {"id": 1, "Data": "02/02/2021","Lavagem":"Ducha", "valor": "R$ 15,00"},
-    {"id": 2, "Data": "02/03/2021","Lavagem":"Geral", "valor": "R$ 30,00"},
     {"id": 3, "Data": "02/04/2021","Lavagem":"Geral", "valor": "R$ 30,00"},
     {"id": 4, "Data": "16/04/2021","Lavagem":"Ducha", "valor": "R$ 15,00"}  
   ],
