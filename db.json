@@ -17,7 +17,8 @@
     {"id": 4, "Data": "16/04/2021","Lavagem":"Ducha", "valor": "R$ 15,00"}  
   ],
   "Contatos":[
-    {"Unidade": "Matriz", "Telefone": "51-3333-3333", "Endereço": "Rua Um dois três quatro","Numero":"1001", "Email": "abracadabra@umdoistresquatro.com.br"}
+    {"Unidade": "Matriz", "Endereço": "Rua Um dois três quatro","Numero":"1001", "Email": "abracadabra@umdoistresquatro.com.br"},
+    {"Unidade": "Centro", "Endereço": "Rua cinco seis","Numero":"1002", "Email": "abracadabra@cincoseis.com.br"}
   ]
   
 }
