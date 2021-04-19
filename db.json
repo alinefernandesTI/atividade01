@@ -19,7 +19,7 @@
     {"id": 4, "Data": "26/03/2021","Lavagem":"Ducha", "valor": "R$ 15,00"}, 
     {"id": 4, "Data": "01/04/2021","Lavagem":"Geral", "valor": "R$ 30,00"}, 
     {"id": 4, "Data": "10/04/2021","Lavagem":"Ducha", "valor": "R$ 15,00"}, 
-    {"id": 4, "Data": "16/04/2021","Lavagem":"Ducha", "valor": "R$ 15,00"}, 
+    {"id": 4, "Data": "16/04/2021","Lavagem":"Ducha", "valor": "R$ 15,00"}
   ],
   "Contatos":[
     {"Unidade": "Matriz", "Endereço": "Rua Um dois três quatro","Numero":"1001", "Email": "abracadabra@umdoistresquatro.com.br"},
