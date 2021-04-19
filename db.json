@@ -8,22 +8,25 @@
   ],
   "Adicionais":[
     {"id": 1, "tipo": "Sujeira Pesada", "valor": "R$ 15,00"},
-    {"id": 2, "tipo": "Tamanho Veiculo", "valor": "R$ 20,00"}    
+    {"id": 2, "tipo": "Tamanho Veiculo", "valor": "R$ 20,00"}
   ],
   "Historico":[
-    {"id": 3, "Data": "02/01/2021","Lavagem":"Geral", "valor": "R$ 30,00"},
-    {"id": 4, "Data": "16/01/2021","Lavagem":"Ducha", "valor": "R$ 15,00"},  
-    {"id": 4, "Data": "16/02/2021","Lavagem":"Ducha", "valor": "R$ 15,00"}, 
+    {"id": 1, "Data": "02/01/2021","Lavagem":"Geral", "valor": "R$ 30,00"},
+    {"id": 2, "Data": "16/01/2021","Lavagem":"Ducha", "valor": "R$ 15,00"},  
+    {"id": 3, "Data": "16/02/2021","Lavagem":"Ducha", "valor": "R$ 15,00"}, 
     {"id": 4, "Data": "06/03/2021","Lavagem":"Expressa", "valor": "R$ 20,00"}, 
-    {"id": 4, "Data": "15/03/2021","Lavagem":"Geral com Cera", "valor": "R$ 35,00"}, 
-    {"id": 4, "Data": "26/03/2021","Lavagem":"Ducha", "valor": "R$ 15,00"}, 
-    {"id": 4, "Data": "01/04/2021","Lavagem":"Geral", "valor": "R$ 30,00"}, 
-    {"id": 4, "Data": "10/04/2021","Lavagem":"Ducha", "valor": "R$ 15,00"}, 
-    {"id": 4, "Data": "16/04/2021","Lavagem":"Expressa", "valor": "R$ 20,00"}
+    {"id": 5, "Data": "15/03/2021","Lavagem":"Geral com Cera", "valor": "R$ 35,00"}, 
+    {"id": 6, "Data": "26/03/2021","Lavagem":"Ducha", "valor": "R$ 15,00"}, 
+    {"id": 7, "Data": "01/04/2021","Lavagem":"Geral", "valor": "R$ 30,00"}, 
+    {"id": 8, "Data": "10/04/2021","Lavagem":"Ducha", "valor": "R$ 15,00"}, 
+    {"id": 9, "Data": "16/04/2021","Lavagem":"Expressa", "valor": "R$ 20,00"},
+    {"id": 5, "Data": "19/04/2021","Lavagem":"Geral com Cera", "valor": "R$ 35,00"}
+
   ],
   "Contatos":[
     {"Unidade": "Matriz", "Endereço": "Rua Um dois três quatro","Numero":"1001", "Email": "abracadabra@umdoistresquatro.com.br"},
-    {"Unidade": "Centro", "Endereço": "Rua cinco seis","Numero":"1002", "Email": "abracadabra@cincoseis.com.br"}
+    {"Unidade": "Centro", "Endereço": "Rua cinco seis","Numero":"1002", "Email": "abracadabra@cincoseis.com.br"},
+    {"Unidade": "Norte", "Endereço": "Rua sete oito nove","Numero":"1003", "Email": "abracadabra@seteoitonove.com.br"}
   ]
   
 }
