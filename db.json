@@ -1,10 +1,10 @@
 
 {
   "Lavagens":[
-    {"id": 1, "nome": "Ducha", "valor": "R$ 15,00"},
-    {"id": 2, "nome": "Expressa", "valor": "R$ 20,00"},
-    {"id": 3, "nome": "Geral", "valor": "R$ 30,00"},
-    {"id": 4, "nome": "Geral com Cera", "valor": "R$ 35,00"}
+    { "nome": "Ducha", "valor": "R$ 15,00"},
+    { "nome": "Expressa", "valor": "R$ 20,00"},
+    { "nome": "Geral", "valor": "R$ 30,00"},
+    { "nome": "Geral com Cera", "valor": "R$ 35,00"}
   ],
   "Adicionais":[
     {"id": 1, "tipo": "Sujeira Pesada", "valor": "R$ 15,00"},
