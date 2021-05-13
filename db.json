@@ -24,9 +24,9 @@
 
   ],
   "Contatos":[
-    {"Unidade": "Matriz", "Endereço": "Rua Um dois três quatro","Numero":"1001", "Email": "abracadabra@umdoistresquatro.com.br"},
-    {"Unidade": "Centro", "Endereço": "Rua cinco seis","Numero":"1002", "Email": "abracadabra@cincoseis.com.br"},
-    {"Unidade": "Norte", "Endereço": "Rua sete oito nove","Numero":"1003", "Email": "abracadabra@seteoitonove.com.br"}
+    {"Unidade": "Matriz", "Endereço": "Rua Um dois três quatro","Numero":"1001","Telefone":"51 3333 3333", "Email": "abracadabra@umdoistresquatro.com.br"},
+    {"Unidade": "Centro", "Endereço": "Rua cinco seis","Numero":"1002","Telefone":"51 3333 3331", "Email": "abracadabra@cincoseis.com.br"},
+    {"Unidade": "Norte", "Endereço": "Rua sete oito nove","Numero":"1003","Telefone":"51 3333 3332", "Email": "abracadabra@seteoitonove.com.br"}
   ]
   
 }
